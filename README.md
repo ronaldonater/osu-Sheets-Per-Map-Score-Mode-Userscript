@@ -1,4 +1,4 @@
-# osu! Sheets = Per-Map Score Modes Userscript
+# osu! Sheets - Per-Map Score Modes Userscript
 
 A Tampermonkey userscript for [osu! Sheets](https://osusheets.com/) that lets you switch the **Per-map averages** column between four score summaries by clicking its header.
 
